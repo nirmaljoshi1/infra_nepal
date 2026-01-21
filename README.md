@@ -1,4 +1,5 @@
 # infra_nepal
 Opensource contribution for infrastructure related civil engineering and architecture projects in Nepal. 
 
+# Introduction
 Nepal’s infrastructure development faces challenges due to difficult terrain, seismic risk, rapid urbanization, and limited technical resources. Open-source contribution offers a practical approach to improve civil engineering and architectural projects by enabling free access to design standards, engineering tools, data, and best practices. Through shared resources such as structural templates, GIS data, BIM models, and disaster-resilient design guidelines, open-source collaboration enhances design quality, reduces costs, and strengthens local capacity. By encouraging knowledge sharing among engineers, architects, researchers, and communities, open-source initiatives support resilient, sustainable, and inclusive infrastructure development tailored to Nepal’s unique geographical and socio-economic context.
